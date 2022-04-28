@@ -1,5 +1,9 @@
 # knowledge-ngwarayi
 
+To Run System
+
+run jar in the target folder and access using the url :   http://localhost:3088/econet/area 
+
 
 GET AREAS
 curl --request GET \
