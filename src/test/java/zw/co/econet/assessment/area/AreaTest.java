@@ -12,7 +12,6 @@ import zw.co.econet.assessment.shop.Shop;
 import zw.co.econet.assessment.shop.service.ShopService;
 
 import java.util.List;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 import static org.junit.Assert.*;
