@@ -4,6 +4,11 @@ To Run System
 
 run jar in the target folder and access using the url :   http://localhost:3088/econet/area 
 
+Video Link
+
+https://drive.google.com/drive/folders/1fdUCsviEBEBnVVL0RDMLO29oVldy8VS4?usp=sharing
+
+
 
 GET AREAS
 curl --request GET \
